@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_yasg',
     'drf_generators',
+    'pages',
 ]
 
 REST_FRAMEWORK = {
