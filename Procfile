@@ -1,1 +1,1 @@
-web: gunicorn djangoSupplierProject.wsgi
+web:gunicorn djangoSupplierProject.wsgi
